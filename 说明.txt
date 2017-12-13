@@ -1,9 +1,0 @@
-参考地址：http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html
-
-
-一 、 安装node 、npm 、Express 、socket.io
-
-二 、 在此文本一级，打开cmd （shift + 右键） 输入： node server
-
-三 、 网页上输入： server.js中的端口 ； localhost：
-

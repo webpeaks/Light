@@ -1,25 +1,24 @@
-HiChat
+Light
 ===
  
-A chat application built with Node.js and socket.io.
+一个简单的web聊天demo。
 
-View the live demo: http://hichat.herokuapp.com/
+在线demo: http://hichat.herokuapp.com/
 
-Features
+特点:
 ---
-* send pictures :sunrise:
-* send emojis :smile:
-* keyboard support :musical_keyboard:
-* online users count statistic :ghost:
+* 发送 图片:sunrise:
+* 发送 emojis :smile:
+* 键盘支持 :musical_keyboard:
+* 在线用户统计 :ghost:
 
-How to run
+怎么运行？
 ---
-1. download the code then extract
-2. run `npm install` from command line window
-3. run `node server` or `iojs server` if you are using [io.js](https://iojs.org/)
-4. finnaly, open your browser and visit `localhost:3000`
+1. 安装node、npm、Express、socket.io
+2. 在本项目内运行node服务
+3. 网页输入 server.js 中的端口，localhost：+ 端口
 
-[教程见博客](http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html)
+[参考地址](http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html)
 
 ![codeship builing status](https://codeship.com/projects/73bd0d90-9897-0131-516c-56598d7b87e5/status?branch=master)
 

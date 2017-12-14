@@ -1,8 +1,9 @@
+// didididid
 var express = require('express'),
-    app = express(),
-    server = require('http').createServer(app),
-    io = require('socket.io').listen(server),
-    users = [];
+    app     = express(),
+    server  = require('http').createServer(app),
+    io      = require('socket.io').listen(server),
+    users   = [];
 //specify the html we will use
 app.use('/', express.static(__dirname + '/www'));
 //bind the server to the 80 port

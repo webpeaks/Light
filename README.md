@@ -18,7 +18,7 @@ Light
 2. 在本项目内运行node服务
 3. 网页输入 server.js 中的端口，localhost：+ 端口
 
-[参考地址](http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html)
+[参考地址](http://www.cnblogs.com/Wayou/p/hichat_built_with_nodejs_socket.html)风格变化
 
 
 
